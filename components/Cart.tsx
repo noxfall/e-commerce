@@ -1,5 +1,7 @@
 const Cart: React.FC = () => {
-    return (<></>);
+    return (
+        <div>Cart</div>
+    );
 };
 
 export default Cart;

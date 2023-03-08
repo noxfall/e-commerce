@@ -7,6 +7,7 @@ const Layout: React.FC = ({ children }) => {
         <div className="layout">
             <Head>
                 <title>Noxfall E-store</title>
+                <link rel="icon" type="image/svg+xml" href="/logo.svg" />
             </Head>
             <header>
                 <Topbar />
